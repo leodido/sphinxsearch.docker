@@ -1,0 +1,5 @@
+export RELEASE="2.2.9"
+export TYPE="release"
+export BUILD_OPTIONS="-r ${RELEASE}-${TYPE}"
+export TAGS="leodido/sphinxsearch:${RELEASE} leodido/sphinxsearch:latest"
+export PUSH_IMAGE="false"
