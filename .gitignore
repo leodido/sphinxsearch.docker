@@ -1,0 +1,7 @@
+*~
+
+.idea
+.vscode
+
+/images
+/versions/**/sphinxsearch.tar.gz
