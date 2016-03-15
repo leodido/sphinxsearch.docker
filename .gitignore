@@ -2,6 +2,7 @@
 
 .idea
 .vscode
+*.sublime-project
 
 /images
 /versions/**/sphinxsearch.tar.gz
